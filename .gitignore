@@ -1,0 +1,11 @@
+# Ignore the config file
+src/main/resources/config.properties
+
+# Other common ignores
+/target
+*.class
+*.log
+*.iml
+.idea/
+*.jar
+.DS_Store
